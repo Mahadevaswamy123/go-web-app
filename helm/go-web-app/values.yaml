@@ -5,7 +5,7 @@ replicaCount: 1
 
 image:
     repository: mahadevaswamyhs/go-web-app
-    tag: "latest"
+    tag: "34018036141"
     pullPolicy: IfNotPresent
 
 service:
